@@ -42,7 +42,7 @@ Repository ini akan dikemaskini secara berkala setiap hari hujung bulan hari sab
 </span>
 
 <style>
-  .buycoffee{
+  buycoffee{
     width: 50%;
     height: 50%;
     float: center;
