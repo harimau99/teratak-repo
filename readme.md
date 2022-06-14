@@ -1,7 +1,7 @@
 # Teratak Repo
 
-Teratak repo ini adalah kompilasi sumber terbuka yang dikongsikan pada orang awam. Anda boleh dapati ebook percuma yang di sediakan oleh @harimau99.
-
+Teratak repository adalah sumber terbuka dalam mempelajari ilmu di dalam bidang IT (secara khususnya) secara percuma pada oranng awam. <br/>
+Anda boleh dapati ebook percuma yang di sediakan oleh @harimau99. <br/>
 Repository ini akan dikemaskini secara berkala setiap hari hujung bulan hari sabtu jam 8 pagi.
 
 
