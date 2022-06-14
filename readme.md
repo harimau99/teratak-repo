@@ -40,5 +40,5 @@ Repository ini akan dikemaskini secara berkala setiap hari hujung bulan hari sab
 
                     
 
-![Buy me a Coffe](https://github.com/harimau99/teratak-repo/blob/main/Najoe/assets/img/bmc-button.png?raw=true)
+<a href="buymeacoffee.com/jojaafar">![Buy me a Coffe](https://github.com/harimau99/teratak-repo/blob/main/Najoe/assets/img/bmc-button.png?raw=true)</a>
 					buymeacoffee.com/jojaafar
