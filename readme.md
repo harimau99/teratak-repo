@@ -37,5 +37,14 @@ Repository ini akan dikemaskini secara berkala setiap hari hujung bulan hari sab
 <br />
 
 ## Support
-
+<span class='buycoffee'>
 [![Buy me a coffee](./Najoe/assets/img/bmc-button.png)](https://buymeacoffee.com/jojaafar)
+</span>
+
+<style>
+  .buycoffee{
+    width: 50%;
+    height: 50%;
+    align: center;
+  }
+</style> 
