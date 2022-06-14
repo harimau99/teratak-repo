@@ -38,4 +38,6 @@ Repository ini akan dikemaskini secara berkala setiap hari hujung bulan hari sab
 
 ## Support
 
-<a href="buymeacoffee.com/jojaafar"><img style="width: 50%; height: 50%;z-index: 1nvh" src="./Najoe/assets/img/bmc-button.png> </a>
+<a href="https://buymeacoffee.com/jojaafar">
+  <img style="width: 50%; height: 50%;" src="./Najoe/assets/img/bmc-button.png> 
+</a>
