@@ -18,7 +18,7 @@ Repository ini akan dikemaskini secara berkala setiap hari hujung bulan hari sab
 |-----------------------|-------------------------------------------------------------------------------|-------------------------------|
 |	EN		|[Main > EN](https://github.com/harimau99/teratak-repo/tree/main/EN) 		| 	Direktori Utama EN  	|
 |	MY		|[Main > MY](https://github.com/harimau99/teratak-repo/tree/main/MY)		| 	Direktori Utama MY	|
-|	Najoe		|[Main > Najoe](https://github.com/harimau99/teratak-repo/tree/main/Najoe	|	Direktori Khas Najoe	|
+|	Najoe		|[Main > Najoe](https://github.com/harimau99/teratak-repo/tree/main/Najoe)	|	Direktori Khas Najoe	|
 
 
 ## Pautan Lain-lain
