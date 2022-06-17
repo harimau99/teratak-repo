@@ -13,25 +13,27 @@ saya sedang mengadakan promosi seperti berikut untuk anak saya (penyediaan dana 
 - Corporate Website = RM 4500
 - ECommerce Website = RM 5200 
 
-01- Free 1 year backup.
-02- Free 1 year maintenance (Done Monthly).
-03- Free 1 to 1  Guide 
-04- Free 1 training session
-05- Come with included SLA (refer to point 2)
+    01- Free 1 year backup.
+    02- Free 1 year maintenance (Done Monthly).
+    03- Free 1 to 1  Guide 
+    04- Free 1 training session
+    05- Come with included SLA (refer to point 2)
+<br />
 Development di lakukan secara live sehingga siap.
+<br />
+Nota:<br /> 
+Bagi mereka yang dapat lengkap informasi yang ingin di masukkan di dalam web (mempunyai photo resolusi yang tinggi) atau cukup informasinya.<br /> Akan lengkap seawal 5 Jam atau 8 jam atau mungkin awal lagi<br />.
+Juga saya ingin sertakan bagi mereka yang tidak mempunyai hosting atau email sendiri<br />.
+anda boleh dapatkan 24 months plan dengan saya under a fixed price<br />.
+Berikut adalah deskripsi hosting<br />:
 
-Nota: 
-Bagi mereka yang dapat lengkap informasi yang ingin di masukkan di dalam web (mempunyai photo resolusi yang tinggi) atau cukup informasinya. Akan lengkap seawal 5 Jam atau 8 jam atau mungkin awal lagi.
-Juga saya ingin sertakan bagi mereka yang tidak mempunyai hosting atau email sendiri.
-anda boleh dapatkan 24 months plan dengan saya under a fixed price.
-Berikut adalah deskripsi hosting:
-Premium Web Hosting - 24 Months Plan 
-Free Domain 
-Free SSL Certificate Activation
-Free Cloudflare CDN
-Free Email
-Unlimited Bandwidth without additional charge
-Unlimited Databases Creation without additional charge
+    Premium Web Hosting - 24 Months Plan<br /> 
+    Free Domain 
+    Free SSL Certificate Activation
+    Free Cloudflare CDN
+    Free Email
+    Unlimited Bandwidth without additional charge
+    Unlimited Databases Creation without additional charge
 
 ```
 Discord WP Dev Jam Session Secara Langsung
