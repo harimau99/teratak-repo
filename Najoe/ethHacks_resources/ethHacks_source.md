@@ -8,10 +8,6 @@ Links to course:
 * https://www.udemy.com/course/practical-ethical-hacking/ (udemy)
 * https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course (tcm academy)
 
-Link to discord server: https://discord.gg/EM6tqPZ
-
-FAQ: https://github.com/hmaverickadams/Practical-Ethical-Hacking-FAQ
-
 ### Note Keeping
 
 Trilium: https://github.com/zadam/trilium
@@ -48,10 +44,6 @@ Other Offical kali 2019 Releases: https://cdimage.kali.org/
 New Capstone boxes: https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCareTnJ5rAeVKeH
 
 Old Capstone boxes: https://youtu.be/JZN3JhoAdWo
-
-Linux Priv Esc course: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
-
-Windows Priv Esc Course: https://academy.tcm-sec.com/p/linux-privilege-escalation
 
 ### Introduction to Exploit Development (Buffer Overflows)
 Immunity Debugger: https://www.immunityinc.com/products/debugger/
@@ -124,8 +116,6 @@ sumrecon: https://github.com/thatonetester/sumrecon
  
  OWASP A10-Insufficient Logging & Monitoring: https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A10-Insufficient_Logging%252526Monitoring.html
  
- ### Legal Documents and Report Writing
- Sample Pentest Report: https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report
   
  ## Tools
  #### Pimpmykali
